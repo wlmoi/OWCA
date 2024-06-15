@@ -2,7 +2,7 @@
 > Tugas Besar - IF1210 Dasar Pemrograman 2024
 
 # About
-> Ini adalah Tugas Besar Dasar Pemrograman untuk mahasiswa STEI ITB angkatan 2023
+> Ini adalah Tugas Besar Dasar Pemrograman 2024 untuk mahasiswa STEI ITB angkatan 2023
 > Tugas Besar ini membuat game pada Python seperti game 'Pokemon'
 
 # Contributors
